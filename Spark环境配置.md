@@ -1,7 +1,12 @@
 ## Hadoop 相关
 
 ### Hadoop 集群配置
-
+以下是本环境配置的基础：
+- ubuntu 20.04
+- java 1.8
+- hadoop 3.1.3
+- scala 2.13.0
+- spark 3.3.0
 #### Hadoop 基础配置&yarn
 
 在$HADOOP_HOME/etc/hadoop下的如下几个文件中追加以下配置
